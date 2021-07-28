@@ -1,5 +1,7 @@
 
 
+install mofun via github code
+requires click
 
 usage:
 ```
